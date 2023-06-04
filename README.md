@@ -4,7 +4,21 @@
 
 🌱 My tools include Excel, SQL and some R programming
 
-⚡ Ask me for my French Onion Soup
+⚡ Ask me about my French Onion Soup recipe. 
+
+![Capture](https://github.com/Jorgea2307/Jorgea2307/assets/17819196/57866fb2-1d7a-4840-87a9-482c346afc4d)
+
+<!--
+
+** add some more notes lie the example below**
+
+If you'd like to see some examples of the interesting custom SQL I have written to get my data formatted properly in Tableau, you can do that here. If you're more interested in the Python scripts that I have written to clean, generate, and document data at my job, you can find that here.
+
+If you'd like to leave GitHub and check out my Tableau skills, you can do so here.
+
+My Blog is a good place to get to know my story.
+
+-->
 
 <!--
 **Jorgea2307/Jorgea2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
