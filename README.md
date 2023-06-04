@@ -1,5 +1,6 @@
+![Capture](https://github.com/Jorgea2307/Jorgea2307/assets/17819196/3e290ce0-7c87-480e-b08a-6b79f3a2e7ad)
 
-![Capture](https://github.com/Jorgea2307/Jorgea2307/assets/17819196/92085538-5163-49a7-983e-131bec355e5b)
+
 
 
 ### Hi there 👋
