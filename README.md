@@ -1,3 +1,6 @@
+
+![Capture](https://github.com/Jorgea2307/Jorgea2307/assets/17819196/57866fb2-1d7a-4840-87a9-482c346afc4d)
+
 ### Hi there 👋
 
 🔭 I’m currently working on building my Analytics Portfolio
@@ -6,7 +9,8 @@
 
 ⚡ Ask me about my French Onion Soup recipe. 
 
-![Capture](https://github.com/Jorgea2307/Jorgea2307/assets/17819196/57866fb2-1d7a-4840-87a9-482c346afc4d)
+
+
 
 <!--
 
