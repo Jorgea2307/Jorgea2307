@@ -3,7 +3,7 @@
 
 
 
-### Hi there 👋
+###  👋 Hi there, I"m Jorge (in Spanish,the J sounds more like an H, as in horse )
 
 🔭 I’m currently working on building my Analytics Portfolio
 
